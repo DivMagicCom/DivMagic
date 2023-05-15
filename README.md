@@ -20,6 +20,8 @@ Welcome to the official GitHub repository for DivMagic, an extension that transf
 - Colors Included: All colors will be converted into their closest Tailwind Color match.
 - Customizable Components: Modify Tailwind CSS components to suit your design needs.
 
+<img src="./resources/demo-1.gif" alt="Demo" width="700">
+
 ## Demo Videos
 
 See the power of DivMagic with these demo videos:
