@@ -18,6 +18,7 @@ Welcome to the official GitHub repository for DivMagic, an extension that transf
 - One-Click Element Copy: Copy any element from any website with a single click.
 - Tailwind CSS Conversion: Convert copied elements into clean, reusable Tailwind CSS code.
 - Colors Included: All colors will be converted into their closest Tailwind Color match.
+- Copy the style as HTML or JSX (React)
 - Customizable Components: Modify Tailwind CSS components to suit your design needs.
 
 <img src="./resources/demo-1.gif" alt="Demo" width="700">
